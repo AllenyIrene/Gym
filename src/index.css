@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+@layer base {
+  .h1{
+    @apply text-4xl font-bold  max-lg:text-2xl
+  }
+}
+@layer components {
+  .max-container{
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+  .padding-l
+  {
+    @apply pl-8
+  }
+ .padding-x{
+  @apply py-4 px-2 sm:px-0.5 
+ }
+ .btn
+ {
+  @apply bg-orange-600 w-[190px] h-16 rounded-[28px]
+   text-black text-2xl outline-none
+ }
+ .btn-white
+ {
+  @apply bg-teal-500 text-orange-600 flex flex-col items-center
+ }
+ .hover{
+  @apply hover:text-orange-600 hover:font-bold hover:text-3xl
+ }
+ .text-hover
+ {
+  @apply hover:text-teal-700
+ }
+}
+
+
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}

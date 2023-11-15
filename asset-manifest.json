@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Gym/static/css/main.c077f154.css",
+    "main.js": "/Gym/static/js/main.d659356b.js",
+    "static/media/pic1.jpeg": "/Gym/static/media/pic1.2177934cc4075584d2d6.jpeg",
+    "static/media/pic3.jpeg": "/Gym/static/media/pic3.720ba513fc7d32a345b1.jpeg",
+    "static/media/b3.jpeg": "/Gym/static/media/b3.331b6f952632ae1188bf.jpeg",
+    "static/media/b6.jpeg": "/Gym/static/media/b6.5b6dccffbee5656ed518.jpeg",
+    "static/media/sv4.jpeg": "/Gym/static/media/sv4.287c456a11e75d3126c7.jpeg",
+    "static/media/logo2.jpeg": "/Gym/static/media/logo2.e1895384cdcaf181433e.jpeg",
+    "static/media/db.jpeg": "/Gym/static/media/db.ef5635072ec5cb86fb62.jpeg",
+    "static/media/sv5.jpeg": "/Gym/static/media/sv5.af92d3d35eb49c835f1a.jpeg",
+    "static/media/Ex1.jpeg": "/Gym/static/media/Ex1.26ca9a55847284c7d3a2.jpeg",
+    "static/media/b1.jpeg": "/Gym/static/media/b1.5279386f37515ba7481e.jpeg",
+    "static/media/pic5.jpeg": "/Gym/static/media/pic5.2cef555e11d59fd36565.jpeg",
+    "static/media/pic2.jpeg": "/Gym/static/media/pic2.06ba50eb1ec4d68ac741.jpeg",
+    "static/media/b7.jpeg": "/Gym/static/media/b7.4d77c1f3ee2f00d8780e.jpeg",
+    "static/media/sv3.jpeg": "/Gym/static/media/sv3.6f2b099e55a034498343.jpeg",
+    "index.html": "/Gym/index.html",
+    "main.c077f154.css.map": "/Gym/static/css/main.c077f154.css.map",
+    "main.d659356b.js.map": "/Gym/static/js/main.d659356b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c077f154.css",
+    "static/js/main.d659356b.js"
+  ]
+}
